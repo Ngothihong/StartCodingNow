@@ -136,6 +136,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\ADMIN\ADMINAreaRegistration.cs" />
     <Compile Include="Areas\ADMIN\Controllers\DefaultController.cs" />
+    <Compile Include="Areas\ADMIN\Controllers\hanController.cs" />
     <Compile Include="Areas\USER\Controllers\HomeController.cs" />
     <Compile Include="Areas\USER\USERAreaRegistration.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -262,6 +263,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Areas\ADMIN\Models\" />
     <Folder Include="Areas\ADMIN\Views\Default\" />
+    <Folder Include="Areas\ADMIN\Views\han\" />
     <Folder Include="Areas\ADMIN\Views\Shared\" />
     <Folder Include="Areas\ADMIN\Views\test\" />
     <Folder Include="Areas\USER\Models\" />
